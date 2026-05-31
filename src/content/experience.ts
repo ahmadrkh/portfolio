@@ -6,7 +6,7 @@ import type { TimelineItem } from "@/types";
  */
 export const timeline: TimelineItem[] = [
   {
-    period: "2022 — Present",
+    period: "2020 — Present",
     title: "B.Sc. Computer Engineering",
     org: "Sharif University of Technology",
     location: "Tehran, Iran",
